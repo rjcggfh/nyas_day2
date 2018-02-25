@@ -21,4 +21,4 @@ $$f(x) = x^2$$
 
 ### Tracking Changes
 
-Now what...
+* `git diff`: shows changes not yet tracked
